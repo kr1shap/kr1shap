@@ -3,11 +3,13 @@
 Welcome! I'm a second-year student at the University of Toronto, studying computer science + stats. 
 I'm currently interested in...
 
- ⟡ ݁₊ . **iOS dev w/Swift**
+ ⟡ ݁₊ . **iOS development**
  
  ⟡ ݁₊ . **front-end development; React, etc**
  
  ⟡ ݁₊ . **UI design, and UX fundamentals**
+
+  ⟡ ݁₊ . **DevOps**
 
 ## 📫 Let's Connect:
 
