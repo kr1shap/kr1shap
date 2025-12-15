@@ -2,7 +2,7 @@
 
 I'm a second-year (maybe third) student at the University of Toronto, studying computer science + stats. I'm specializing in software engineering for my CS degree, and minoring in statistics. 
 
-Right now, I'm interning @ RBC for my winter 2026 term as a software dev !
+Right now, I'm interning @ RBC for my winter 2026 term as a software dev on their wealth management team !
 
 ----
 
@@ -10,6 +10,7 @@ Right now, I'm interning @ RBC for my winter 2026 term as a software dev !
 
 - iOS, mobile & software development
 - a lot of design & marketing for some super cool clubs, such as UTMIST, GDG UTSC, GenAI, and WICSM UTSC.
+- searching for summer 27' roles ( aka manifesting )
 - wasting my money at cafes
 - surviving uoft
 - ( & trying hard to land my first TA position )
