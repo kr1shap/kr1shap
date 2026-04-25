@@ -1,10 +1,9 @@
 # 💫  hi, I'm Krisha!
 
-I'm a second-year (maybe third) student at the University of Toronto, studying computer science + stats. I'm specializing in software engineering for my CS degree, and minoring in statistics. 
+I'm a third-year student at the University of Toronto, studying computer science + stats. I'm specializing in software engineering for my CS degree, and minoring in statistics. 
 
-Right now, I'm interning @ RBC for my winter 2026 term as a software dev on their wealth management team, and I'm an incoming mobile engineer @ capital one this summer !
+Right now, I'm interning @ Capital One for my sumer 2026 term as a mobile software engineer :) 
 
-On the side, I'm also TAing for MATA22 (linear algebra 1) at UTSC !
 
 ----
 
