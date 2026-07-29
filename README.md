@@ -2,7 +2,9 @@
 
 I'm a third-year student at the University of Toronto, studying computer science + stats. I'm specializing in software engineering for my CS degree, and minoring in statistics. 
 
-Right now, I'm interning @ Capital One for my sumer 2026 term as a mobile software engineer :) 
+Right now, I'm interning @ Capital One for my summer 2026 term as a mobile software engineer :) 
+
+After that, I'll be joining CPP Investments as a part of their Tech & Data Program. 
 
 
 ----
