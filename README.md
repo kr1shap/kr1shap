@@ -7,6 +7,7 @@ I'm a third-year student at the University of Toronto, studying computer science
 - Software Development Intern, Backend @ RBC (pointer.curr = winter_26)
 - Software Engineer Intern, Mobile @ Capital One (pointer.curr = summer_26)
 - Software Engineer Intern, Backend @ CPP Investments (pointer.curr = fall_26)
+- ???? @ ?????? (pointer-curr = summer_27)
 
 ----
 
